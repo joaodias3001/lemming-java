@@ -1,0 +1,24 @@
+titulo = Toca a paralisar
+mundo = nivel0/nivel0.png
+total = 10
+objetivo = 5
+ritmo = 30
+tempo = 300
+entrada = 250	70
+num_obstaculos = 1
+obstaculo_1_tipo = saida
+obstaculo_1_zona = 1198	373	20	42
+obstaculo_1_imagem = CA	500	180	obstaculos/rotador.png	6	4
+num_fundos = 8
+fundo_1_imagem = CS	0	0	nivel6/fundo.png
+fundo_2_imagem = CA	200	40	efeitos/porta_1.png	10	1	unico
+fundo_3_imagem = CA	0	550	obstaculos/fogo_1.png	8	3
+fundo_4_imagem = CA	256	550	obstaculos/fogo_1.png	8	3
+fundo_5_imagem = CA	512	550	obstaculos/fogo_1.png	8	3
+fundo_6_imagem = CA	768	550	obstaculos/fogo_1.png	8	3
+fundo_7_imagem = CA	1024	550	obstaculos/fogo_1.png	8	3
+fundo_8_imagem = CA	1280	550	obstaculos/fogo_1.png	8	3
+num_habilidades = 2
+habilidade_1 = bloqueador	5
+habilidade_2 = bomba	5
+

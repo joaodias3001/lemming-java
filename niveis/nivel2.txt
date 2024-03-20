@@ -1,0 +1,16 @@
+titulo = Flutuar ou morrer 
+mundo = nivel2/nivel2.png
+total = 10
+objetivo = 5
+ritmo = 30
+tempo = 300
+entrada = 250	70
+num_obstaculos = 1
+obstaculo_1_tipo = saida
+obstaculo_1_zona = 1135	527	20	42
+obstaculo_1_imagem = CA	1090	502	obstaculos/saida_terra.png	6	4	
+num_fundos = 2
+fundo_1_imagem = CS	0	0	nivel2/fundo.png
+fundo_2_imagem = CA	190	40	efeitos/porta_1.png	10	1	unico
+num_habilidades = 1
+habilidade_1 = flutuador	10
